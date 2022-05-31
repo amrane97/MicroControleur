@@ -1,0 +1,2 @@
+afficheur.c:5:6:init_entree	40	static
+afficheur.c:43:6:afficher_distance	16	static
